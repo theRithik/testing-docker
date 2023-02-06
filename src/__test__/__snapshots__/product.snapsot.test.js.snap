@@ -1,0 +1,248 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot test testing component should run without data 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        React
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://www.freecodecamp.org/news/content/images/2020/04/Copy-of-Copy-of-Travel-Photography-1.png"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Angular
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Node Js
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        MongoDB
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Express Js
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "display": "inline-block",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="..."
+      class="card-img-top courimg"
+      src="https://cdn.logicaldoc.com/images/blog/cloud_images_of_technology.webp"
+    />
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Cloud Computing
+      </h5>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "black",
+          }
+        }
+      >
+        These  courses are specialy thought by the professionals and these are the best in ethe industry
+      </p>
+      <a
+        class="btn btn-primary"
+        href="/Form"
+      >
+        Details
+      </a>
+    </div>
+  </div>
+</div>
+`;

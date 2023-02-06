@@ -1,0 +1,31 @@
+redux install
+
+npm i redux react-redux
+
+routing-5
+npm istall react-router-dom@5.3.0
+
+
+npm i redux-promise
+
+
+
+for testing installnpm i react-test-renderer enzyme
+
+if code is wrong in test fix the code or if the snapshot is wrong then we have to upadate the snapshot 
+
+to update the snapshot 
+ 
+package.json 
+in scripts
+after test add on more
+"test:update":"react-script test --updateSnapshot"
+
+to run it     npm run test:update
+
+
+
+
+
+
+docker id a container over which multipule applications can run
